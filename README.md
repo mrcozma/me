@@ -46,12 +46,11 @@ I mentor designers globally — helping with **portfolio reviews**, **interview 
 
 ## 🔭 Goals
 
-I’m passionate about:
 - Helping teams adopt **design-driven decision-making**
 - Building **effective design teams and systems**
 - Solving complex problems that **drive measurable impact**
 
-Let’s connect — through design, code, or meaningful projects. 🎯
+Let’s connect 🎯
 
 <!---
 mrcozma/mrcozma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
