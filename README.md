@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marian Cozma
+# 👋 Hi, I’m Marian
 
 Engineer × Product Designer driving meaningful digital experiences at the intersection of **user needs, business strategy & technology**.
 
