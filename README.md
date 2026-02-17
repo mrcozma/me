@@ -2,7 +2,7 @@
 
 Engineer × Product Designer driving meaningful digital experiences at the intersection of **user needs, business strategy & technology**.
 
-With **10+ years of experience**, I design and deliver accessible, scalable, and commercially effective digital products — from fintech and banking to entertainment, telecoms, and ecommerce. My work blends **human-centred design**, **data-informed decisions**, and **impact-focused delivery** to move KPIs and support business growth. :contentReference[oaicite:0]{index=0}
+With **10+ years of experience**, I design and deliver accessible, scalable, and commercially effective digital products — from fintech and banking to entertainment, telecoms, and ecommerce. My work blends **human-centred design**, **data-informed decisions**, and **impact-focused delivery** to move KPIs and support business growth.
 
 ---
 
